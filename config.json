@@ -1,0 +1,6 @@
+{
+  "prefix": ".",
+  "embed_color": 3447003,
+  "react_delay": 1.0,
+  "max_tokens_per_batch": 100
+}
