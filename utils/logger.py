@@ -1,10 +1,5 @@
 import logging
 from colorlog import ColoredFormatter
-from utils.logger import logger
-
-logger.info("Bot started")
-logger.error("Token invalid")
-
 
 def setup_logger():
 
