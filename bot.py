@@ -55,7 +55,7 @@ async def help(ctx):
 
     embed.add_field(
         name="Commands",
-        value="```
+        value="""
 help
 addtoken
 tokenstat
@@ -64,7 +64,7 @@ checkserver
 leaveserver
 react
 stopreact
-```",
+""",
         inline=False
     )
 
